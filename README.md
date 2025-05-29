@@ -174,16 +174,16 @@
 <h2 align="center">💻 Platforms & OS</h2>
 
 <p align="center">
-  <a href="https://developer.android.com"
+  <a href="https://www.microsoft.com/en-us/windows?r=1"
     ><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-      alt="android"
+      src="https://img.icons8.com/color/512/windows-10.png"
+      alt="windows"
       style="width: 50px; height: 50px"
   /></a>
-  <a href="https://aws.amazon.com"
+  <a href="https://www.apple.com/by/macos/what-is/"
     ><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-      alt="aws"
+      src="https://icons.iconarchive.com/icons/icons8/windows-8/512/Systems-Mac-Os-icon.png"
+      alt="MacOS"
       style="width: 50px; height: 50px"
   /></a>
   <a href="https://www.linux.org/"

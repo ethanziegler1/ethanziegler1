@@ -4,7 +4,7 @@
 <div align="center">
   <p>🔭 I'm currently working on <strong>HHSA</strong></p>
   <p>🌱 I'm currently learning <strong>React</strong></p>
-  <p>👨‍💻 All of my projects are available <a href="https://ethanziegler1.github.io/Portfolio-Website/"target="_blank">here!</a></p>
+  <p>👨‍💻 All of my projects are available <a href="https://ethan-ziegler-portfolio.vercel.app/" target="_blank">here!</a></p>
 </div>
 
 ---

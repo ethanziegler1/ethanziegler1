@@ -182,7 +182,7 @@
   /></a>
   <a href="https://www.apple.com/by/macos/what-is/"
     ><img
-      src="https://icons.iconarchive.com/icons/icons8/windows-8/512/Systems-Mac-Os-icon.png"
+      src="https://img.icons8.com/?size=100&id=c0DKfx1fatjh&format=png&color=000000"
       alt="MacOS"
       style="width: 50px; height: 50px"
   /></a>
